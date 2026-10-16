@@ -66,7 +66,7 @@ A rota de webhook valida `x-signature` e `x-request-id`, busca a assinatura ou f
 
 ## Publicação
 
-Importe o repositório no Vercel, selecione o preset Next.js e configure as variáveis de ambiente acima. Conectar GitHub ao Vercel publica uma URL HTTPS e ativa uma nova implantação a cada push. Sem acesso ao repositório e ao projeto de hospedagem, nenhum link público de produção foi criado automaticamente.
+O código está publicado em [FireGodis/site-subscription](https://github.com/FireGodis/site-subscription). Importe esse repositório no Vercel, selecione o preset Next.js e configure as variáveis de ambiente acima. Conectar GitHub ao Vercel publica uma URL HTTPS e ativa uma nova implantação a cada push. O projeto ainda não tem uma implantação pública: falta conectar a hospedagem e configurar as credenciais do Supabase e do Mercado Pago.
 
 ## Antes de cobrar clientes reais
 
