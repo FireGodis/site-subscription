@@ -1,6 +1,6 @@
 # Fechou
 
-Produto de assinatura para profissionais autônomos: calculadora pública de preço, organização privada de clientes e propostas, registro de pagamentos e lembretes prontos para WhatsApp.
+O Fechou ajuda profissionais autônomos que cobram por serviço a calcular quanto cobrar e organizar clientes e propostas. A calculadora gratuita estima um preço de referência usando horas e custos; os planos pagos permitem guardar clientes, propostas e resultados reais dos trabalhos.
 
 ## O que já está implementado
 
